@@ -55,10 +55,8 @@ h1 {
 
 .content {
   position:relative;
-  height:20vh;
   text-align:center;
   background-color: white;
-  
   
 }
 
@@ -72,7 +70,7 @@ h1 {
     flex-direction: column;
     background-color: rgba(244, 247, 249, 0.643);
     border-radius: 10px;
-    left: 90px; 
+    left: 130px; 
     top:-200px; 
     position: relative;
     padding: 10px;
